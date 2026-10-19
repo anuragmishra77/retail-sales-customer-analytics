@@ -18,3 +18,7 @@ __pycache__/
 Thumbs.db
 .vscode/
 .idea/
+
+# Generated local profiling outputs
+reports/*
+!reports/README.md
